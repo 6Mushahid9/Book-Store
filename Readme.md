@@ -1,5 +1,7 @@
 # Notes
-## This file will contains notes regaurding terminal and notes about perticular file will be inside that file
+## This file contains notes regarding terminal & notes about perticular file will be inside that file.
+
+## For Backend (Express + mongo DB)
 
 * in backend terminal write npm init to create project
 * add "type" : "module" in package. json
